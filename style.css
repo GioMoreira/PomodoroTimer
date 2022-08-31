@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 50px;
+
+}
+
+button{
+    font-size: 25px;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.timer, .buttons{
+    width: fit-content;
+    margin: 0 auto;
+    font-size: 50px;
+}
+
+.timer{
+    border-bottom: solid 2px;
+    font-weight: bolder;
+}
+
+#play{
+    background: palegreen;
+}
+
+#reset{
+    background: palevioletred;
+}
+
+
+
